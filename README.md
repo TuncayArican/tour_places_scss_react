@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can check the project via tuncayarican-react-scss.netlify.app
+You can check the project via https://tuncayarican-react-scss.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
